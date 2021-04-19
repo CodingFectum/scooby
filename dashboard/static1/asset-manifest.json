@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/dashboard/static/css/main.dfed1c87.chunk.css",
+    "main.js": "/dashboard/static/js/main.72a45c64.chunk.js",
+    "main.js.map": "/dashboard/static/js/main.72a45c64.chunk.js.map",
+    "runtime-main.js": "/dashboard/static/js/runtime-main.3f9968bf.js",
+    "runtime-main.js.map": "/dashboard/static/js/runtime-main.3f9968bf.js.map",
+    "static/js/2.9377d66c.chunk.js": "/dashboard/static/js/2.9377d66c.chunk.js",
+    "static/js/2.9377d66c.chunk.js.map": "/dashboard/static/js/2.9377d66c.chunk.js.map",
+    "static/js/3.7ae7bf86.chunk.js": "/dashboard/static/js/3.7ae7bf86.chunk.js",
+    "static/js/3.7ae7bf86.chunk.js.map": "/dashboard/static/js/3.7ae7bf86.chunk.js.map",
+    "index.html": "/dashboard/index.html",
+    "static/css/main.dfed1c87.chunk.css.map": "/dashboard/static/css/main.dfed1c87.chunk.css.map",
+    "static/js/2.9377d66c.chunk.js.LICENSE.txt": "/dashboard/static/js/2.9377d66c.chunk.js.LICENSE.txt",
+    "static/media/BTC_pool.11840117.png": "/dashboard/static/media/BTC_pool.11840117.png",
+    "static/media/DOLLER_COIN.894586e9.png": "/dashboard/static/media/DOLLER_COIN.894586e9.png",
+    "static/media/Dashboard_main.936e50c9.png": "/dashboard/static/media/Dashboard_main.936e50c9.png",
+    "static/media/SCB_BTC.96a8902a.png": "/dashboard/static/media/SCB_BTC.96a8902a.png",
+    "static/media/App.css": "/dashboard/static/media/btccoin.92eeb783.png",
+    "static/media/logo.6ce24c58.svg": "/dashboard/static/media/logo.6ce24c58.svg",
+    "static/media/logo.6d60bb27.png": "/dashboard/static/media/logo.6d60bb27.png",
+    "static/media/reward_pool.cbc05a59.png": "/dashboard/static/media/reward_pool.cbc05a59.png",
+    "static/media/wallet_balance.38b55444.png": "/dashboard/static/media/wallet_balance.38b55444.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f9968bf.js",
+    "static/js/2.9377d66c.chunk.js",
+    "static/css/main.dfed1c87.chunk.css",
+    "static/js/main.72a45c64.chunk.js"
+  ]
+}
